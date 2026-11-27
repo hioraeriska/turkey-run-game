@@ -1,6 +1,6 @@
 [![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01)
-[![rank](https://make.fun/turkey-run-game-01/hioraeriska/turkey-run-game/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard)
-[![reward](https://make.fun/turkey-run-game-01/hioraeriska/turkey-run-game/reward.svg)](https://make.fun/bounty/turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/hioraeriska/turkey-run-game/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard)
+[![reward](https://make.fun/badge/turkey-run-game-01/hioraeriska/turkey-run-game/reward.svg)](https://make.fun/bounty/turkey-run-game-01)
 
 # Turkey Run — Escape Thanksgiving
 
